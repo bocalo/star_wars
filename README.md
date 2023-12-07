@@ -77,5 +77,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 		"build": "react-app-rewired build",
 		"build-storybook": "build-storybook -o ./build/storybook",
 		"eject": "react-scripts eject",
-		"storybook": "storybook dev -p 6006",
+		"storybook": "start-storybook -p 6006 -s public",
 		"build-gh-pages": "gh-pages -d build" -->
