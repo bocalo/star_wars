@@ -21,7 +21,7 @@
 		"deploy": "npm run build && npm run build-storybook && npm run build-gh-pages",
 		"start": "react-app-rewired start",
 		"build": "react-app-rewired build",
-		"build-storybook": " sb build",
+		"build-storybook": "build-storybook -o ./build/storybook",
 		"eject": "react-scripts eject",
 		"storybook": "storybook dev -p 6006",
 		"build-gh-pages": "gh-pages -d build"
