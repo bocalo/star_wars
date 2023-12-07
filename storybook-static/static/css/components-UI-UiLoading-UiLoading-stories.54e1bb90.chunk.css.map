@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/components-UI-UiLoading-UiLoading-stories.54e1bb90.chunk.css","mappings":"AAAA;AACA;AACA;AACA;;AAEA;AACA;AACA","sources":["webpack://star_wars/./src/components/UI/UiLoading/UiLoading.module.css"],"sourcesContent":[".loader {\n\twidth: 120px;\n\theight: 120px;\n}\n\n.shadow {\n\tfilter: drop-shadow(0 0 2px #000);\n}\n"],"names":[],"sourceRoot":""}
