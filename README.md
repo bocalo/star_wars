@@ -71,3 +71,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 <!-- "type": "module" -->
 <!-- "build-storybook": "build-storybook -o ./build/storybook", -->
+
+<!-- "start": "react-app-rewired start",
+		"deploy": "npm run build && npm run build-storybook && npm run build-gh-pages",
+		"build": "react-app-rewired build",
+		"build-storybook": "build-storybook -o ./build/storybook",
+		"eject": "react-scripts eject",
+		"storybook": "storybook dev -p 6006",
+		"build-gh-pages": "gh-pages -d build" -->
